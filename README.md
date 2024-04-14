@@ -141,4 +141,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use GEEK-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
 
-[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+GEEK+MD;🙏;🙏+✍🏾;🥰)](https://github.com/GEEKMD099)
+[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+GEEK+MD+THANGS+SŒUR+STecy+MM;🙏;🙏+✍🏾;🥰)](https://github.com/GEEKMD099)
