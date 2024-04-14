@@ -71,7 +71,8 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.0.0",
-  caption : process.env.CAPTION || "𝗪𝗔𝗦𝗜 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
+  caption : process.env.CAPTION || "
+𝙂𝙀𝙀𝙆-𝙈𝘿 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
   author : process.env.PACK_AUTHER|| "𝗪𝗔𝗦𝗜 ",
   packname: process.env.PACK_NAME || "♥️",
@@ -92,7 +93,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "01",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "public",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "WASI",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "GEEK",
 
 
 
