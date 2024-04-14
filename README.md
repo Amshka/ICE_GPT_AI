@@ -122,6 +122,13 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/Ruben_De_Jean)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
+# THANKS TO `@Itxxwasi`
+# `Owner`
+
+ <a href="https://github.com/GEEKMD099"><img src="https://github.com/GEEKMD099.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+
+# `Contributor` 
+<a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="WASI Tech"/></a>
 
 
 
