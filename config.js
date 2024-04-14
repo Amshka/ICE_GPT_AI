@@ -18,10 +18,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
-global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/GEEKMD099/GEEK-MD";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -58,7 +58,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "923135673658,923192
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923135673658,923192173398";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://myqr-43bb863fa5eb.herokuapp.com/";
+global.scan = "https://geek-qr-c6ccf7b7583e.herokuapp.com/";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ;
@@ -74,10 +74,10 @@ module.exports = {
   caption : process.env.CAPTION || "
 𝙂𝙀𝙀𝙆-𝙈𝘿 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
-  author : process.env.PACK_AUTHER|| "𝗪𝗔𝗦𝗜 ",
+  author : process.env.PACK_AUTHER|| "𝙂𝙀𝙀𝙆-𝙈𝘿 ",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "GEEK MD",
-  ownername:process.env.OWNER_NAME|| "It's 𝗜𝗧𝗫𝗫𝗪𝗔𝗦𝗜",
+  ownername:process.env.OWNER_NAME|| "MR_LEGEEK",
 
 
   errorChat : process.env.ERROR_CHAT || "",
