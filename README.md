@@ -86,7 +86,7 @@ if scan qr is not working please try using pairing code i am currently working o
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ---
-1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com/).***
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://geek-qr-c6ccf7b7583e.herokuapp.com/).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://geek-qr.onrender.com).***
 ---
 3. ***GET QR FROM SERVER 3 [`SESSION ID `](https://replit.com/@Lord338/Paring-code?v=1/).***
