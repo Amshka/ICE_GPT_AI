@@ -110,7 +110,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
  `Star ⭐ repo if you like this bot`.
- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
+ If any problem, then [`Whatsapp Me Here`](https://wa.me/message/237698046545)
 
 
 ### I Am
@@ -121,7 +121,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/Ruben_De_Jean)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@Ruben)
 # THANKS TO `@Itxxwasi`
 # `Owner`
 
@@ -141,4 +141,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use GEEK-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
 
-[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+GEEK+MD+THANGS+SŒUR+STecy+MM;🙏;🙏+✍🏾;🥰)](https://github.com/GEEKMD099)
+[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+GEEK+MD+;🙏;🙏+✍🏾;💻)](https://github.com/GEEKMD099)
