@@ -1,7 +1,7 @@
 <h1 align="center"> ICE_GPT_AI </h1> 
-<p align="center"> Introducing geek md , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<p align="center"> Introducing *ICE_GPT_AI* , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to serve you send your feedback to </p>
 
-[![ICE_KENYA](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+MR_LEGEEK+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙃)](https://github.com/Kingjux)
+[![ICE_KENYA](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+ICE_KENYA+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;ENJOY+THE+EXPERIENCE+🙂;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+🙃)](https://github.com/realestice)
 
 
 <p align="center">
@@ -13,21 +13,21 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
+  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ICE_GPT_AI+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="GEEK-md is free to use" href="https://github.com/GEEKMD099/GEEK-MD" target="_blank">
-    <img alt="GEEKtech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="ICE_GPT_AI is free to use" href="https://github.com/REALESTICE/ICE_GPT_AI" target="_blank">
+    <img alt="ICE_TECH" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="GEEK-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="ICE_GPT_AI :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗚𝗘𝗘𝗞 𝗠𝗗 uses
+<p align="center"> ICE_GPT_AI uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/GEEKMD099/GEEK-MD"><b>GEEK-md</b></a> Support Deploy On...
+  <a href="https://github.com/REALESTICE/ICE_GPT_AI"><b>GEEK-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FREALESTICE%2FICE_GPT_AI"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
