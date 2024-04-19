@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false ,    
-      "value": "GEEK MD"
+      "value": "ICE_GPT_AI"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -37,7 +37,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Karachi/Pakistan"
+      "value": "Africa/nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "237620857930;237698046545"
+      "value": "254782494900;254737022108"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,7 +132,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "GEEK👋",
+      "value": "ice🙂",
       "required": true 
     },
     "PACK_AUTHER": {
